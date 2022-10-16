@@ -1,2 +1,2 @@
 # imagetest
-!(/images/image1.png)
+!(/image/image1.png)
