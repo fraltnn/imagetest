@@ -1,2 +1,2 @@
 # imagetest
-!([alt]/image/image1.png)
+!([alt](/image/image1.png)
